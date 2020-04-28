@@ -47,3 +47,5 @@ function Show-BalloonTip
 		# Remove–Variable –Name balloon
 	}
 }
+
+Show-BalloonTip -Text "What's good?" -Title "Huh?" -IconFilePath "C:\Windows\WinSxS\wow64_microsoft-windows-onedrive-setup_31bf3856ad364e35_10.0.18362.1_none_01f25b79d7a97c4b\OneDrive.ico"
